@@ -1,6 +1,6 @@
 # TinyXAI: A Consumer-Grade Stress Monitoring Engine for Always-On Wearable Devices
 
-Authors: G. Kirubavathi∗, Anagha C.∗, Vaibhav S.∗, Abdul Khader Jilani Saudagar†∗, and Ateeq Ur Rehman‡∗
+Authors: G. Kirubavathi*, Anagha C.*, Vaibhav S.*, Abdul Khader Jilani Saudagar†*, and Ateeq Ur Rehman‡*
 
 
 Abstract: Lightweight and comprehensible models that are appropriate for real-time edge deployment are needed for wearable stress detection. We suggest TinyXAI, a CNN-LSTM
@@ -31,9 +31,10 @@ user feedback
 
 Repository Overview
 
-This repository contains the implementation of Rationale-Guided Retrieval-Augmented Generation (RAG²). It includes code for training the filtering model, setting up the retriever, and running inference.
+This repository contains the implementation of TinyXAI: A Consumer-Grade Stress Monitoring Engine for Always-On Wearable Devices. 
 
 Detailed instructions for each component will be provided soon.
 
-Citation
-If you use this work, please cite our paper:
+
+
+
